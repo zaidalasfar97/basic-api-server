@@ -14,6 +14,11 @@ app.use(express.json());
 app.use(cors());
 app.use(morgan('dev'));
 
+
+app.get('/', (req, res) => {
+    res.send('Hello There !!!');
+})
+
 app.use('/api/clothes', clothesRouter);
 app.use('/api/food', foodRouter);
 

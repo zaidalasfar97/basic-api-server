@@ -2,7 +2,7 @@
 
 
 # [heroku](https://basic-api-server-zaid.herokuapp.com/)
-# [PR]()
+# [PR](https://github.com/zaidalasfar97/basic-api-server/pull/1)
 
 
 #### branch name : dev
@@ -13,7 +13,7 @@
 #### 4-Have ability to update in database.
 #### 5-Have ability to delete from database.
 # Test
-# [Action](https://basic-api-server-zaid.herokuapp.com/)
+# [Action](https://github.com/zaidalasfar97/basic-api-server/actions)
 
 # UML Diagram :
 ![UML](./img/uml2.png)
